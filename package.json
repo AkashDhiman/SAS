@@ -1,0 +1,23 @@
+{
+  "name": "smart-attendance-system",
+  "version": "1.0.0",
+  "description": "a webpage to manage attendances of people in different institutes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashDhiman/SAS.git"
+  },
+  "author": "Akash Dhiman",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AkashDhiman/SAS/issues"
+  },
+  "homepage": "https://github.com/AkashDhiman/SAS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
